@@ -1,5 +1,3 @@
-mod aesthetics;
-
 #[cfg(test)]
 mod tests {
     #[test]
