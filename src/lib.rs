@@ -1,3 +1,7 @@
+mod grammar;
+
+pub use grammar::data::{Dataset, DatasetBase};
+
 #[cfg(test)]
 mod tests {
     #[test]
